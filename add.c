@@ -1,4 +1,4 @@
-#include <stdio.h>
+\#include <stdio.h>
 
 int main() {
     int num1, num2,num4,num5,num6; sum;
@@ -15,5 +15,4 @@ int main() {
     
     
 }
-a 
-10
+a 10
